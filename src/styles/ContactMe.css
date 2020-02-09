@@ -1,0 +1,23 @@
+.form-button {
+  padding-left: 320px;
+  padding-right: 320px;
+}
+
+body {
+  background-color: #cf9cff !important;
+  font-family: 'Dosis', sans-serif !important;
+  color: white !important;
+}
+
+.ui.header {
+  font-family: 'Dosis', sans-serif !important;
+  color: white !important;
+}
+
+button {
+  font-family: 'Dosis', sans-serif !important;
+}
+
+.ui.input>input {
+  font-family: 'Dosis', sans-serif !important;
+}
